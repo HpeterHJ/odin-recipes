@@ -1,11 +1,0 @@
---2023-10-27 06:02:12--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9055593.jpg
-Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 146.75.22.137
-Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|146.75.22.137|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 8189445 (7.8M) [image/jpeg]
-Saving to: ‘image?url=https:%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9055593.jpg’
-
-          image?url   0%[                    ]       0  --.-KB/s                        image?url=   8%[>                   ] 648.00K  3.09MB/s                       image?url=h  22%[===>                ]   1.74M  4.28MB/s                      image?url=ht  40%[=======>            ]   3.16M  5.20MB/s                     image?url=htt  66%[============>       ]   5.16M  6.38MB/s                    image?url=http  94%[=================>  ]   7.35M  7.28MB/s               image?url=https:%2F 100%[===================>]   7.81M  7.41MB/s    in 1.1s    
-
-2023-10-27 06:02:15 (7.41 MB/s) - ‘image?url=https:%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F9055593.jpg’ saved [8189445/8189445]
-
